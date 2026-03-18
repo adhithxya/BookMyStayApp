@@ -133,7 +133,7 @@ class ConcurrentBookingProcessor implements Runnable {
 }
 
 // -------------------- MAIN --------------------
-public class UseCase11ConcurrentBookingSimulation {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
