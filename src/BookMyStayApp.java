@@ -75,7 +75,7 @@ class BookingRequestQueue {
 }
 
 // -------------------- MAIN CLASS --------------------
-public class UseCase9ErrorHandlingValidation {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
