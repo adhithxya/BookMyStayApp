@@ -88,7 +88,7 @@ class RoomInventory {
 }
 
 // -------------------- MAIN CLASS --------------------
-public class UseCase3InventorySetup {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
