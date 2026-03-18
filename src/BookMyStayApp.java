@@ -73,7 +73,7 @@ class AddOnServiceManager {
 }
 
 // -------------------- MAIN CLASS --------------------
-public class UseCase7AddOnServiceSelection {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
