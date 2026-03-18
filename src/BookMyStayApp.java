@@ -72,7 +72,7 @@ class BookingReportService {
 }
 
 // -------------------- MAIN CLASS --------------------
-public class UseCase8BookingHistoryReport {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
